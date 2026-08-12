@@ -1,5 +1,6 @@
 # Docker MCRIT
 [![Test](https://github.com/danielplohmann/docker-mcrit/actions/workflows/test.yml/badge.svg)](https://github.com/danielplohmann/docker-mcrit/actions/workflows/test.yml)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/danielplohmann/docker-mcrit)
 
 Dockerized Setup for the MinHash-based Code Recognition and Investigation Toolkit (MCRIT).
 
